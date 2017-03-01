@@ -1,0 +1,23 @@
+{
+  "name": "pixi_game",
+  "version": "1.0.0",
+  "description": "pixi_game hit_mouses",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "pixi",
+    "html5",
+    "game"
+  ],
+  "author": "h.love.pure",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^4.3.4"
+  }
+}
